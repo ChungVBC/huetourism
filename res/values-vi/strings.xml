@@ -3,25 +3,54 @@
 
     <string name="hello">Hello World, ActMain!</string>
     <string name="app_name">Hue Tourism</string>
-    <string name="navbar_home_name">Home</string>
-    <string name="navbar_search_name">Search</string>
-    <string name="navbar_map_name">Map</string>
-    <string name="navbar_favorite_name">Favorite</string>
-    <string name="navbar_more_name">More</string>
-    <string name="place_name">Place</string>
-    <string name="bank_name">Bank</string>
-    <string name="restaurant_name">Restaurant</string>
-    <string name="other_name">Other</string>
-    <string name="transport_name">Transport</string>
-    <string name="hotel_name">Hotel</string>
-    <string name="drink_name">Drink</string>
-    <string name="shopping_name">Shopping</string>
-    
+
+    <!-- TAB HOME -->
+    <string name="n_home_search">Tìm kiếm</string>
+    <string name="n_home_favorite">Yêu thích</string>
+    <string name="n_home_around_here">Xung quanh</string>
+
+    <!-- POSITION -->
+    <string name="n_home_place_name">Địa điểm</string>
+    <string name="n_home_bank_name">Rút tiền</string>
+    <string name="n_home_restaurant_name">Nhà hàng</string>
+    <string name="n_home_other_name">Khác</string>
+    <string name="n_home_transport_name">Giao thông</string>
+    <string name="n_home_hotel_name">Khách sạn</string>
+    <string name="n_home_drink_name">Thức uống</string>
+    <string name="n_home_shopping_name">Mua sắm</string>
+
+    <!-- NAVIBAR -->
+    <string name="navbar_home_name">Nhà</string>
+    <string name="navbar_map_name">Bản đồ</string>
+    <string name="navbar_more_name">Khác</string>
+
+    <!-- TAB MAP -->
+
+
     <!-- TAB MORE -->
     <string name="n_h_more">KHÁC</string>
     <string name="n_selectlanguae">Chọn ngôn ngữ</string>
     <string name="n_language">Tiếng Việt</string>
     <string name="n_aboutApp">Thông tin ứng dụng</string>
-	 <string name="n_show">Hiển thị</string>
+    <string name="n_show">Hiển thị</string>
+
+    <!-- DIALOG SELECT LANGUAGE -->
+    <string name="n_d_select_language_vi">Việt Nam</string>
+    <string name="n_d_select_language_en">Tiếng Anh</string>
+    <string name="n_d_location_close">Đóng</string>
+    <string name="n_d_nearby_title">Gần đây</string>
+    <string name="n_d_nearby_hint">Nhập vào khoảng cách (m)</string>
+    <string name="n_d_nearby_cancel">Hủy</string>
+    <string name="n_d_nearby_ok">Chọn</string>
+
+    <!-- GRID VIEW -->
+    <string name="n_grid_item_name">Grid items</string>
+
+    <!-- LIST VIEW -->
+    <string name="n_list_item_title">Title</string>
+    <string name="n_list_item_brief">Brief</string>
+
+    <!-- LIST LAYOUT -->
+    <string name="n_list_layout_hint">Nhập tìm kiếm</string>
 
 </resources>

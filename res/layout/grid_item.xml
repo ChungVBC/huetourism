@@ -17,7 +17,8 @@
             android:layout_width="40sp"
             android:layout_height="40sp"
             android:src="@drawable/place" 
-            android:layout_margin="5sp">
+            android:layout_margin="5sp"
+            android:contentDescription="@string/hello">
         </ImageView>
     </LinearLayout>
 
@@ -28,7 +29,7 @@
         android:layout_toRightOf="@+id/thumbnail"
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
-        android:text="Grid item"
+        android:text="@string/n_grid_item_name"
         android:textColor="@android:color/black"
         android:textSize="16sp" 
         android:paddingLeft="5sp"/>

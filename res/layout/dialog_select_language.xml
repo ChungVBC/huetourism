@@ -2,29 +2,54 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:layout_gravity="center"
     android:background="@drawable/setting_background_light"
-    android:gravity="center"
     android:orientation="vertical" >
 
-    <Button
-        android:id="@+id/btnVNLanguage"
+    <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10sp"
-        android:background="@drawable/list_selector"
-        android:drawableLeft="@drawable/vietnamese"
-        android:padding="5sp"
-        android:text="Vietnamese" />
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
 
-    <Button
-        android:id="@+id/btnENLanguage"
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/travel_management_ori"
+            android:text="@string/app_name"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10sp"
-        android:background="@drawable/list_selector"
-        android:drawableLeft="@drawable/english"
-        android:padding="5sp"
-        android:text="English" />
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnVNLanguage"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20sp"
+            android:background="@drawable/list_selector"
+            android:drawableLeft="@drawable/vietnamese"
+            android:padding="5sp"
+            android:text="@string/n_d_select_language_vi"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnENLanguage"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20sp"
+            android:background="@drawable/list_selector"
+            android:drawableLeft="@drawable/english"
+            android:padding="5sp"
+            android:text="@string/n_d_select_language_en"
+            android:textSize="16sp" />
+    </LinearLayout>
 
 </LinearLayout>

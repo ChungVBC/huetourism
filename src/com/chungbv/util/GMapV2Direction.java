@@ -16,17 +16,17 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.google.android.gms.maps.model.LatLng;
-
-import android.content.Context;
 import android.util.Log;
+
+import com.google.android.gms.maps.model.LatLng;
 
 public class GMapV2Direction
 {
 	public final static String MODE_DRIVING = "driving";
 	public final static String MODE_WALKING = "walking";
 
-	public GMapV2Direction() {
+	public GMapV2Direction()
+	{
 	}
 
 	public Document getDocument(LatLng start, LatLng end, String mode)

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -11,8 +10,9 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_marginRight="5dp"
-        android:adjustViewBounds="true" 
-        android:scaleType="fitXY">
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/hello" >
     </ImageView>
 
     <LinearLayout
@@ -27,7 +27,7 @@
             android:ellipsize="end"
             android:singleLine="true"
             android:textColor="#ff000000"
-            android:textSize="14dp"
+            android:textSize="14sp"
             android:textStyle="bold" />
 
         <TextView
@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#ff7f7f7f"
-            android:textSize="14dp" />
+            android:textSize="14sp" />
     </LinearLayout>
 
 </LinearLayout>

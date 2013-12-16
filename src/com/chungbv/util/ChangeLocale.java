@@ -30,8 +30,6 @@ public class ChangeLocale
 		Configuration conf = res.getConfiguration();
 		conf.locale = myLocale;
 		res.updateConfiguration(conf, dm);
-		
-		writeXMLFile();
 	}
 	
 	public void refreshActivity(Activity act)

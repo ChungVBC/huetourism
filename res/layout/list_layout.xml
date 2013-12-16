@@ -14,18 +14,6 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:orientation="horizontal" >
-<!-- 
-        <Button
-            android:id="@+id/btnHomeReturn"
-            android:layout_width="40sp"
-            android:layout_height="40sp"
-            android:layout_marginLeft="5sp"
-            android:layout_marginRight="5sp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:layout_centerVertical="true"
-            android:background="@drawable/select_button_bg"
-            android:drawableRight="@drawable/home_return_40px" /> -->
 
         <EditText
             android:id="@+id/search_edt"
@@ -36,22 +24,9 @@
             android:background="@drawable/setting_background_light"
             android:drawableRight="@drawable/ic_action_search"
             android:ems="10"
-            android:hint="Enter text..."
-            android:paddingLeft="5dp" >  
- 
+            android:hint="@string/n_list_layout_hint"
+            android:paddingLeft="5dp" >
         </EditText>
-<!-- 
-        <Button
-            android:id="@+id/btnFuncThumbnail"
-            android:layout_width="40sp"
-            android:layout_height="40sp"
-            android:layout_marginLeft="5sp"
-            android:layout_marginRight="5sp"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true"
-            android:layout_centerVertical="true"
-            android:background="@drawable/select_button_bg"
-            android:drawableLeft="@drawable/filter_40px" /> -->
     </RelativeLayout>
 
     <ListView
@@ -60,6 +35,6 @@
         android:layout_height="wrap_content"
         android:divider="@android:color/transparent"
         android:dividerHeight="2dp"
-        android:listSelector="@drawable/list_selector"/>
+        android:listSelector="@drawable/list_selector" />
 
 </LinearLayout>

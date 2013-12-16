@@ -1,7 +1,5 @@
 package com.chungbv.tabactivity;
 
-import info.androidhive.googlemapsv2.ListViewActivity;
-import info.androidhive.googlemapsv2.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
@@ -12,9 +10,10 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
 import android.widget.GridView;
-import android.widget.TextView;
 
 import com.chungbv.adapter.GridAdapter;
+import com.chungbv.huetourism.ListViewActivity;
+import com.chungbv.huetourism.R;
 
 public class Home extends Activity
 {
@@ -84,7 +83,8 @@ public class Home extends Activity
 		{
 			public void onItemClick(AdapterView<?> parent, View v, int position, long id)
 			{
-				onCreateFuncPage(((TextView) v.findViewById(R.id.grid_item_label)).getText().toString());
+//				onCreateFuncPage(((TextView) v.findViewById(R.id.grid_item_label)).getText().toString());
+				onCreateFuncPage(GridAdapter.TOURISM_TYPE[position]);
 			}
 		});
 	}

@@ -22,7 +22,6 @@
             android:layout_height="fill_parent"
             android:layout_above="@android:id/tabs"
             android:layout_alignParentTop="true" />
-
     </RelativeLayout>
 
 </TabHost>

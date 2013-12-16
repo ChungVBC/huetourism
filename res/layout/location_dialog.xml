@@ -100,6 +100,6 @@
         android:layout_margin="5sp"
         android:background="@drawable/list_selector"
         android:padding="5sp"
-        android:text="Close" />
+        android:text="@string/n_d_location_close" />
 
 </LinearLayout>

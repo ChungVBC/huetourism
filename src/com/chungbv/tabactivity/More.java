@@ -1,20 +1,16 @@
 
 package com.chungbv.tabactivity;
 
-import java.util.Locale;
-import com.chungbv.util.ChangeLocale;
-import info.androidhive.googlemapsv2.*;
+import com.chungbv.huetourism.R;
+import android.app.Activity;
 import android.os.Bundle;
-import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
-import android.app.Activity;
-import android.content.Intent;
-import android.content.res.Configuration;
-import android.content.res.Resources;
+
+import com.chungbv.huetourism.MainActivity;
+import com.chungbv.util.ChangeLocale;
 
 public class More extends Activity
 {
@@ -61,7 +57,8 @@ public class More extends Activity
 			MainActivity.CURRENT_LANGUAGE = 1;			
 		}
 		
-		ChangeLocale locale = new ChangeLocale(More.class, More.this, MainActivity.CURRENT_LANGUAGE);
+		ChangeLocale locale = new ChangeLocale(MainActivity.class, More.this, MainActivity.CURRENT_LANGUAGE);
+		locale.writeXMLFile();
 		locale.refreshActivity(this);
 	}
 }

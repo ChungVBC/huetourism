@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:state_selected="true"
-        android:drawable="@drawable/ic_action_overflow_de"
+        android:drawable="@drawable/ic_action_overflow"
     />
-    <item android:drawable="@drawable/ic_action_overflow"  />
+    <item android:drawable="@drawable/ic_action_overflow_de"  />
 </selector>

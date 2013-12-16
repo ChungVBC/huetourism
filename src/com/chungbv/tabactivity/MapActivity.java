@@ -1,6 +1,6 @@
 package com.chungbv.tabactivity;
 
-import info.androidhive.googlemapsv2.R;
+import com.chungbv.huetourism.R;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -238,7 +238,7 @@ public class MapActivity extends FragmentActivity
 	public void onCreateNearByDialog()
 	{
 		final Dialog dialog = new Dialog(MapActivity.this, android.R.style.Theme_Translucent_NoTitleBar);
-		dialog.setContentView(R.layout.nearby_dialog);
+		dialog.setContentView(R.layout.dialog_around_here);
 		dialog.show();
 
 		Button btnCancel = (Button) dialog.findViewById(R.id.btnCancelNBDialog);
@@ -260,10 +260,12 @@ public class MapActivity extends FragmentActivity
 			public void onClick(View v)
 			{
 				// TODO Auto-generated method stub
-				EditText edtxt = (EditText) dialog.findViewById(R.id.editTextNearBy);
+				EditText edtxt = (EditText) dialog.findViewById(R.id.editTextNearBy);	
+				if (edtxt != null && edtxt.length() != 0) {
+					NEARBY = true;
+					RADIUS = Integer.parseInt(edtxt.getText().toString());
+				}
 				dialog.dismiss();
-				NEARBY = true;
-				RADIUS = Integer.parseInt(edtxt.getText().toString());
 				showAllMarker();
 			}
 		});
@@ -452,7 +454,7 @@ public class MapActivity extends FragmentActivity
 			case 2:
 				// For around
 				return new AlertDialog.Builder(this).setView(
-						this.getLayoutInflater().inflate(R.layout.nearby_dialog, null)).create();
+						this.getLayoutInflater().inflate(R.layout.dialog_around_here, null)).create();
 		}
 		return null;
 	}

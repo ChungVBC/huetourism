@@ -3,18 +3,54 @@
 
     <string name="hello">Hello World, ActMain!</string>
     <string name="app_name">Hue Tourism</string>
+
+    <!-- TAB HOME -->
+    <string name="n_home_search">Search</string>
+    <string name="n_home_favorite">Favorites</string>
+    <string name="n_home_around_here">Around Here</string>
+
+    <!-- POSITION -->
+    <string name="n_home_place_name">Place</string>
+    <string name="n_home_bank_name">ATM</string>
+    <string name="n_home_restaurant_name">Restaurant</string>
+    <string name="n_home_other_name">Other</string>
+    <string name="n_home_transport_name">Transport</string>
+    <string name="n_home_hotel_name">Hotel</string>
+    <string name="n_home_drink_name">Drink</string>
+    <string name="n_home_shopping_name">Shopping</string>
+
+    <!-- NAVIBAR -->
     <string name="navbar_home_name">Home</string>
-    <string name="navbar_search_name">Search</string>
     <string name="navbar_map_name">Map</string>
-    <string name="navbar_favorite_name">Favorite</string>
     <string name="navbar_more_name">More</string>
-    <string name="place_name">Place</string>
-    <string name="bank_name">Bank</string>
-    <string name="restaurant_name">Restaurant</string>
-    <string name="other_name">Other</string>
-    <string name="transport_name">Transport</string>
-    <string name="hotel_name">Hotel</string>
-    <string name="drink_name">Drink</string>
-    <string name="shopping_name">Shopping</string>
+
+    <!-- TAB MAP -->
+
+
+    <!-- TAB MORE -->
+    <string name="n_h_more">MORE</string>
+    <string name="n_selectlanguae">Select language</string>
+    <string name="n_language">English</string>
+    <string name="n_aboutApp">About Application</string>
+    <string name="n_show">Show</string>
+
+    <!-- DIALOG -->
+    <string name="n_d_select_language_vi">Vietnamese</string>
+    <string name="n_d_select_language_en">English</string>
+    <string name="n_d_location_close">Close</string>
+    <string name="n_d_nearby_title">Nearby</string>
+    <string name="n_d_nearby_hint">Enter distance (m)</string>
+    <string name="n_d_nearby_cancel">Cancel</string>
+    <string name="n_d_nearby_ok">OK</string>
+
+    <!-- GRID VIEW -->
+    <string name="n_grid_item_name">Grid items</string>
+
+    <!-- LIST ROW -->
+    <string name="n_list_item_title">Title</string>
+    <string name="n_list_item_brief">Brief</string>
+
+    <!-- LIST LAYOUT -->
+    <string name="n_list_layout_hint">Enter text</string>
 
 </resources>

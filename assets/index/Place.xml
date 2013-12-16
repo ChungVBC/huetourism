@@ -5,7 +5,7 @@
     	<title>Thien Mu Pagoda</title>
     	<content>Built in 1601 on the order of the first Nguyen lords, Nguyen Hoang, who at that time was the governor of Thuan Hoa...</content>
 		<thumb>content/place/thumb/chua_thien_mu_hue.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/ThienMuPagoda.html</view>
 		<position>16.45242,107.54506</position>
 		<type>0</type>
@@ -25,7 +25,7 @@
     	<title>Minh Mang Tomb</title>
     	<content>Tomb of Minh Mang tomb also called Hieu (by King Thieu Tri construction), located on Mount Cam Khe, near Bang Lang fork is a place...</content>
 		<thumb>content/place/thumb/lang_minh_mang.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/MinhMangTomb.html</view>
 		<position>16.387694,107.569036</position>
 		<type>0</type>
@@ -35,7 +35,7 @@
     	<title>Tu Duc Tomb</title>
     	<content>Tu Duc tomb is a complex of structures, including the burial place of King Tu Duc is located in a narrow valley of...</content>
 		<thumb>content/place/thumb/lang_tu_duc.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/TuDucTomb.html</view>
 		<position>16.432463,107.565802</position>
 		<type>0</type>
@@ -65,7 +65,7 @@
     	<title>Con Te Mountain</title>
     	<content>Con Te mangrove land is located opposite Thuan An estuary, located in Huong Phong Commune, Huong Tra district....</content>
 		<thumb>content/place/thumb/con_te.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/ConTeMountain.html</view>
 		<position>16.567675,107.591937</position>
 		<type>1</type>
@@ -85,7 +85,7 @@
     	<title>White Horse</title>
     	<content>Bạch Mã National Park is situated in the Annamite Mountains and is one of the wettest places in Vietnam. Its mountains are composed...</content>
 		<thumb>content/place/thumb/bach_ma.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/WhiteHorse.html</view>
 		<position>16.183684,107.903488</position>
 		<type>1</type>
@@ -95,7 +95,7 @@
     	<title>Nine Tunnel</title>
     	<content>Zone Five Nine West Ham of Hamlet, An Old Village, An Thuy commune, Hue city, the city center is about 6km south west,...</content>
 		<thumb>content/place/thumb/chin_ham.jpg</thumb>
-		<favorite>1</favorite>
+		<favorite>0</favorite>
 		<view>file:///android_asset/content/place/NineTunnel.html</view>
 		<position>16.417891,107.608324</position>
 		<type>2</type>

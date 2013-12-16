@@ -9,7 +9,7 @@
         <item name="android:gravity">center_horizontal</item>
         <item name="android:layout_weight">1</item>
         <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@android:color/white</item>
+         <item name="android:textColor">@android:color/white</item>
     </style>
 
     <style name="list_location_button">
@@ -20,10 +20,11 @@
         <item name="android:gravity">center_horizontal</item>
         <item name="android:layout_weight">1</item>
         <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:padding">5sp</item>
+         <item name="android:textColor">@android:color/white</item>
+         <item name="android:padding">5sp</item> 
+         <item name="android:layout_weight">1</item>
     </style>
-
+    
     <style name="func_button">
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>

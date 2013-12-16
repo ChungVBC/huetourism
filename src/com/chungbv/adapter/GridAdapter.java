@@ -7,13 +7,18 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-import info.androidhive.googlemapsv2.*;
+
+import com.chungbv.huetourism.R;
 public class GridAdapter extends BaseAdapter
 {
 	private Context context;
 	
 	public static final String TOURISM_TYPE[] = { "Place", "Restaurant", "Drink", "Hotel", "Transport",
 			"Shopping", "ATM", "Other" };
+	
+	public static final int[] TOURISM_NAME_ID = {R.string.n_home_place_name, R.string.n_home_restaurant_name,
+			R.string.n_home_drink_name, R.string.n_home_hotel_name, R.string.n_home_transport_name,
+			R.string.n_home_shopping_name, R.string.n_home_bank_name, R.string.n_home_other_name};
 	
 	private final int ID_GRID[] = { R.drawable.place, R.drawable.restaurant, R.drawable.drink, R.drawable.hotel,
 			R.drawable.transport, R.drawable.shopping, R.drawable.bank, R.drawable.other };
@@ -35,7 +40,7 @@ public class GridAdapter extends BaseAdapter
 
 			// set value into text view
 			TextView textView = (TextView) gridView.findViewById(R.id.grid_item_label);
-			textView.setText(TOURISM_TYPE[position]);
+			textView.setText(TOURISM_NAME_ID[position]);
 
 			// set image based on selected text
 			ImageView imageView = (ImageView) gridView.findViewById(R.id.grid_item_image);

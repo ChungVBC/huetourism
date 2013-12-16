@@ -1,6 +1,6 @@
 package com.chungbv.adapter;
 
-import info.androidhive.googlemapsv2.R;
+import com.chungbv.huetourism.R;
 
 import java.io.IOException;
 import java.io.InputStream;
