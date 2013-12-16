@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/hello"
+            android:scaleType="fitXY"
+            android:src="@drawable/header" 
+            android:layout_weight="3"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10sp"
+            android:layout_weight="7" >
+
+            <Button
+                android:id="@+id/btnH_Search"
+                android:layout_width="80sp"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/list_selector"
+                android:drawableTop="@drawable/ic_action_search"
+                android:text="Search"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+
+            <RelativeLayout
+                android:layout_width="80sp"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true" >
+
+                <Button
+                    android:id="@+id/btnH_Favorite"
+                    android:layout_width="80sp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/list_selector"
+                    android:drawableTop="@drawable/ic_action_important"
+                    android:text="Favorites"
+                    android:textColor="@android:color/black"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btnH_ArounHere"
+                android:layout_width="80sp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/list_selector"
+                android:drawableTop="@drawable/ic_action_place"
+                android:text="Around Here"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/gridLayoutHome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_weight="1" >
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:columnWidth="150dp"
+            android:gravity="center"
+            android:horizontalSpacing="10sp"
+            android:listSelector="@drawable/list_selector"
+            android:numColumns="2"
+            android:verticalSpacing="10sp" >
+        </GridView>
+    </RelativeLayout>
+
+</LinearLayout>

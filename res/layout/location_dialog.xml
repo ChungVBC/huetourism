@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/setting_background_light"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location1"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location2"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location3"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location4"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location5"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location6"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location7"
+            android:padding="5sp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="48sp"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/list_selector"
+            android:drawableTop="@drawable/location8"
+            android:padding="5sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnCloseLDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:background="@drawable/list_selector"
+        android:padding="5sp"
+        android:text="Close" />
+
+</LinearLayout>

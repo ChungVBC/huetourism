@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="@drawable/list_selector">
+
+    <LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="48sp"
+        android:layout_height="48sp" 
+        android:layout_margin="5sp">
+
+        <ImageView
+            android:id="@+id/grid_item_image"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:src="@drawable/place" 
+            android:layout_margin="5sp">
+        </ImageView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/grid_item_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Grid item"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" 
+        android:paddingLeft="5sp"/>
+
+</RelativeLayout>

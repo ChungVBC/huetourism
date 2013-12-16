@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/setting_background_light"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnVNLanguage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:background="@drawable/list_selector"
+        android:drawableLeft="@drawable/vietnamese"
+        android:padding="5sp"
+        android:text="Vietnamese" />
+
+    <Button
+        android:id="@+id/btnENLanguage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:background="@drawable/list_selector"
+        android:drawableLeft="@drawable/english"
+        android:padding="5sp"
+        android:text="English" />
+
+</LinearLayout>

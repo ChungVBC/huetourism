@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <item>
+        <!-- 0 : Vietnamese
+        	 1 : English	-->
+   		<language>1</language>
+   		
+   		<!-- 0 : Other run
+        	 1 : Fisrt run	-->
+   		<first_run>1</first_run>
+	</item>	
+</config>

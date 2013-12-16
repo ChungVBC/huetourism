@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drink>
+    <item>
+   		<id>0</id>    
+    	<title>Kha Coffee</title>
+    	<content>Không gian quán có 2 phần tách biệt, Kha café được trang trí với khá nhiều cây xanh...</content>
+		<thumb>content/drink/thumb/kha.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/kha.html</view>
+		<position>16.458023,107.581423</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Blue Coffee</title>
+    	<content>Với hương vị cà phê rang đậm đà, sẽ mang đến nhiều cảm nhận thú vị...</content>
+		<thumb>content/drink/thumb/blue.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/blue.html</view>
+		<position>16.457339,107.582641</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Ngoc Anh Bar</title>
+    	<content>Hãy ghé thăm Bar Ngọc Anh để cùng hòa mình vào những điệu nhạc lên xuống của DJ và...</content>
+		<thumb>content/drink/thumb/ngocanh.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/ngocanh.html</view>
+		<position>16.465493,107.587928</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Muc Dong Coffee</title>
+    	<content>Vừa thưởng thức cà phê thơm ngon và giai điệu âm nhạc "chất" nhất Huế...</content>
+		<thumb>content/drink/thumb/mucdong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/mucdong.html</view>
+		<position>16.46289,107.596952</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Nhat Tao Coffee</title>
+    	<content>Không gian thoáng mát, bên cạnh sông Như Ý...</content>
+		<thumb>content/drink/thumb/nhattao.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/nhattao.html</view>
+		<position>16.472222,107.59561</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Tea Room</title>
+    	<content>Đến với không gian tĩnh lặng, cổ xưa...</content>
+		<thumb>content/drink/thumb/trathat.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/trathat.html</view>
+		<position>16.458517,107.560677</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Seal Coffee</title>
+    	<content>Cà phê seal chất lượng tuyệt vời...</content>
+		<thumb>content/drink/thumb/seal.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/seal.html</view>
+		<position>16.436661,107.577511</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Vu Di Tea</title>
+    	<content>Công thức gia truyền mang đến hương vị trà đậm đà nhất...</content>
+		<thumb>content/drink/thumb/vudi.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/vudi.html</view>
+		<position>16.384132,107.603517</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Window Coffee</title>
+    	<content>Bên cạnh trung tâm học liệu huế, không gian hiện đại, sang trọng...</content>
+		<thumb>content/drink/thumb/window.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/window.html</view>
+		<position>16.464433,107.587382</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Phuong Nam Coffee</title>
+    	<content>Vừa nhâm nhi ly cà phê vừa đọc sách cũng là một thú vui...</content>
+		<thumb>content/drink/thumb/phuongnam.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/drink/phuongnam.html</view>
+		<position>16.466522,107.593047</position>
+		<type>2</type>
+	</item>
+</drink>

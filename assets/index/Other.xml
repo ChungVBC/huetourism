@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<other>
+    <item>
+   		<id>0</id>    
+    	<title>Huyen Khong Pagoda</title>
+    	<content>Đến viếng chùa, du khách hành hương phải đi qua chùa Linh Mụ, theo con lộ dọc sông Hương...</content>
+		<thumb>content/other/thumb/huyenkhong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/huyenkhong.html</view>
+		<position>16.444647,107.486273</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Ho Chi Minh Museum</title>
+    	<content>Bảo tàng có trụ sở tại số 7, đường Lê Lợi, thành phố Huế, bên bờ Nam sông Hương...</content>
+		<thumb>content/other/thumb/baotanghcm.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/baotanghcm.html</view>
+		<position>16.45969,107.581083</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Lac Tinh Vien</title>
+    	<content>Lạc Tịnh Viên do nhà thơ Hồng Khẳng sáng lập vào năm 1889 trên lô đất có diện tích 2.070m2 ở...</content>
+		<thumb>content/other/thumb/lactinhvien.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/lactinhvien.html</view>
+		<position>16.456768,107.591468</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Hue Pedagogical University</title>
+    	<content>Trường Đại học Sư phạm Huế được thành lập năm 1957, là một phân khoa thuộc viện Đại Học Huế...</content>
+		<thumb>content/other/thumb/dhsp.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/dhsp.html</view>
+		<position>16.467921,107.591254</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Quoc Hoc Highschool</title>
+    	<content>Nơi đây, Chủ Tịch Hồ Chí Minh và nhiều nhà lãnh đạo cao cấp của Đảng, Nhà Nước Việt Nam...</content>
+		<thumb>content/other/thumb/quochoc.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/quochoc.html</view>
+		<position>16.46041,107.5831</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Phu Cam Church</title>
+    	<content>Nhà thờ chính tòa Phủ Cam là nhà thờ chính tòa của Tổng Giáo phận Huế, tọa lạc trên đồi Phước Quả...</content>
+		<thumb>content/other/thumb/phucam.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/phucam.html</view>
+		<position>16.453043,107.58767</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Tu Dam Pagoda</title>
+    	<content>Từ Đàm Temple is a Buddhist temple located on a street of the same name in the Trường An District of Huế...</content>
+		<thumb>content/other/thumb/tudam.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/tudam.html</view>
+		<position>16.451891,107.581705</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Art Museum</title>
+    	<content>Bảo tàng Mỹ thuật Cung đình Huế là một viện bảo tàng tại số 3, Lê Trực, Huế... </content>
+		<thumb>content/other/thumb/baotangmythuat.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/baotangmythuat.html</view>
+		<position>16.471337,107.581898</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Truong Tien Bridge</title>
+    	<content>Cầu Trường Tiền còn được gọi là Cầu Tràng Tiền, là chiếc cầu dài 402,60 m, gồm 6 nhịp dầm thép hình vành lược...</content>
+		<thumb>content/other/thumb/truongtien.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/truongtien.html</view>
+		<position>16.468785,107.588893</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Phu Mong Garden House</title>
+    	<content>Phú Mộng có bảy ngôi nhà vườn trên 100 tuổi. Các ngôi nhà - vườn này xưa kia của các quan lại trong triều Nguyễn...</content>
+		<thumb>content/other/thumb/phumong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/other/phumong.html</view>
+		<position>16.462077,107.56293</position>
+		<type>2</type>
+	</item> 
+</other>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurant>
+    <item>
+   		<id>0</id>    
+    	<title>Van Chieu Quan</title>
+    	<content>Giữa không khí mùa hè oi ả, nếu bạn muốn tìm một nơi thư giãn lý tưởng, mát mẻ của chốn đồng quê...</content>
+		<thumb>content/restaurant/thumb/vanchieu.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/vanchieu.html</view>
+		<position>16.485967,107.608588</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Thao Nhi Restaurant</title>
+    	<content>Biệt Phủ Thảo Nhi là một điểm dừng chân lý tưởng, trong lành. Nơi quý vị thực sự tìm đến với những...</content>
+		<thumb>content/restaurant/thumb/thaonhi.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/thaonhi.html</view>
+		<position>16.407146,107.58919</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Nam Chau Hoi Quan</title>
+    	<content>Trong không gian kiến trúc độc đáo, toạ lạc trên một vị trí có giá trị lịch sử, được đầu tư đồng bộ...</content>
+		<thumb>content/restaurant/thumb/namchau.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/namchau.html</view>
+		<position>16.46181,107.568251</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Ngu Uyen Restaurant</title>
+    	<content>Quán ăn Ngự Uyển chuyên phục vụ các món ăn truyền thống Huế, Đặc biệt nhất là món bún thịt nướng và bánh...</content>
+		<thumb>content/restaurant/thumb/nguuyen.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/nguuyen.html</view>
+		<position>16.458064,107.580934</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Ta Ke Restaurant</title>
+    	<content>Một bữa ăn Nhật hứa hẹn một ngày nhẹ nhõm bởi cơ thể bạn sẽ khỏe khoắn hơn với sự tiêu hóa tốt...</content>
+		<thumb>content/restaurant/thumb/take.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/take.html</view>
+		<position>16.465956,107.591663</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Khoai Lac Thien</title>
+    	<content>Đây là cửa hàng nổi tiếng trong ẩm thực Huế: Quán bánh khoái cửa Thượng Tứ...</content>
+		<thumb>content/restaurant/thumb/khoailac.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/khoailac.html</view>
+		<position>16.468405,107.584925</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Little Italy</title>
+    	<content>Thực đơn của nhà hàng không chỉ đa dạng về các thức ăn và thức uống đậm hương vị Ý mà còn...</content>
+		<thumb>content/restaurant/thumb/italy.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/italy.html</view>
+		<position>16.468703,107.595481</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Aroma Restaurant</title>
+    	<content>Ẩn mình giữa khu phu phố nhỏ, xen lẫn bên cạnh những căn nhà cao thấp trên con đường Chu Văn An...</content>
+		<thumb>content/restaurant/thumb/aroma.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/aroma.html</view>
+		<position>16.469485,107.595504</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Loving Hut</title>
+    	<content>Nhà hàng chay Loving Hut ra đời với mong muốn là nơi đem đến cho mỗi người cảm nhận được nét...</content>
+		<thumb>content/restaurant/thumb/lovinghut.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/lovinghut.html</view>
+		<position>16.451479,107.603806</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Quynh Huong Restaurant</title>
+    	<content>Nằm ở một vị trí đẹp trên đường Nguyễn Sinh Cung, Quỳnh Hương được khách sành ăn yêu mến...</content>
+		<thumb>content/restaurant/thumb/quynhhuong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/restaurant/quynhhuong.html</view>
+		<position>16.480504,107.595869</position>
+		<type>2</type>
+	</item>
+</restaurant>

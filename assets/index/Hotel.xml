@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel>
+    <item>
+   		<id>0</id>    
+    	<title>Indochina Palace Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 5*</content>
+		<thumb>content/hotel/thumb/indo.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/indo.html</view>
+		<position>16.460616,107.598203</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Pilgrimage Village</title>
+    	<content>Khách sạn tiêu chuẩn 5*</content>
+		<thumb>content/hotel/thumb/langhanhhuong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/langhanhhuong.html</view>
+		<position>16.425136,107.579406</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Mondial Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 4*</content>
+		<thumb>content/hotel/thumb/mondial.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/mondial.html</view>
+		<position>16.457735,107.583016</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Green Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 4*</content>
+		<thumb>content/hotel/thumb/green.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/green.html</view>
+		<position>16.458033,107.580001</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Saigon Morin Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 4*</content>
+		<thumb>content/hotel/thumb/saigonmorin.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/saigonmorin.html</view>
+		<position>16.4668,107.590086</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Thanh Noi Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 3*</content>
+		<thumb>content/hotel/thumb/thanhnoi.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/thanhnoi.html</view>
+		<position>16.466203,107.583777</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Duy Tan Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 3*</content>
+		<thumb>content/hotel/thumb/duytan.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/duytan.html</view>
+		<position>16.465287,107.592178</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Huong Giang Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 4*</content>
+		<thumb>content/hotel/thumb/huonggiang.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/huonggiang.html</view>
+		<position>16.47253,107.594817</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Century Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 4*</content>
+		<thumb>content/hotel/thumb/century.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/century.html</view>
+		<position>16.472026,107.594592</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Dong Da Hotel</title>
+    	<content>Khách sạn tiêu chuẩn 3*</content>
+		<thumb>content/hotel/thumb/dongda.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/hotel/dongda.html</view>
+		<position>16.460698,107.591727</position>
+		<type>2</type>
+	</item>
+</hotel>

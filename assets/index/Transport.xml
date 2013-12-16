@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <item>
+   		<id>0</id>    
+    	<title>Dong Ba Taxi</title>
+    	<content>Điện thoại: (84-54) 3848484</content>
+		<thumb>content/transport/thumb/taxidongba.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/taxidongba.html</view>
+		<position>16.472963,107.588443</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Mai Linh Taxi</title>
+    	<content>Điện thoại: 054.3898989  - 054.3824747</content>
+		<thumb>content/transport/thumb/taximailinh.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/taximailinh.html</view>
+		<position>16.455677,107.582832</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>South Bus Station</title>
+    	<content>Ðịa chỉ: số 333A đường An Dương Vương ÐT: 054.826065</content>
+		<thumb>content/transport/thumb/benxephianam.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/benxephianam.html</view>
+		<position>16.450522,107.6056</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>North Bus Station</title>
+    	<content>Đường Lý Thái Tổ, TP Huế</content>
+		<thumb>content/transport/thumb/benxephiabac.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/benxephiabac.html</view>
+		<position>16.487695,107.548586</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Dong Ba Bus</title>
+    	<content>Ðịa chỉ: số 6 đường Trần Hưng Ðạo ÐT: 054.823055</content>
+		<thumb>content/transport/thumb/benxedongba.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/benxedongba.html</view>
+		<position>16.472757,107.588228</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Phu Bai Airport</title>
+    	<content>Sân bay quốc tế Phú Bài là sân bay phục vụ thành phố Huế tỉnh Thừa Thiên Huế, Việt Nam...</content>
+		<thumb>content/transport/thumb/sanbay.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/sanbay.html</view>
+		<position>16.397544,107.700539</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Hue Train Station</title>
+    	<content>Ga Huế ở đầu đường Bùi Thị Xuân nối với đường Lê Lợi, cách trung tâm thành phố khoảng 1km rất thuận tiện...</content>
+		<thumb>content/transport/thumb/ga.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/ga.html</view>
+		<position>16.456459,107.578444</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Yellow Taxi</title>
+    	<content>Điện thoại: 054 3 79 79 79</content>
+		<thumb>content/transport/thumb/taxivang.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/taxivang.html</view>
+		<position>16.460945,107.590076</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Gili Taxi</title>
+    	<content>Điện thoại: 0543.3828282</content>
+		<thumb>content/transport/thumb/taxigili.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/taxigili.html</view>
+		<position>16.472674,107.600778</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Thanh Do Taxi</title>
+    	<content> Điện thoại: 0543.3858585</content>
+		<thumb>content/transport/thumb/taxithanhdo.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/transport/taxithanhdo.html</view>
+		<position>16.481769,107.601378</position>
+		<type>2</type>
+	</item>
+</transport>

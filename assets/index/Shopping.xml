@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shopping>
+    <item>
+   		<id>0</id>    
+    	<title>Coop Super Market</title>
+    	<content>Siêu thị Co.op Mart Huế là 1 trong 40 siêu thị thuộc Hệ thống Co.op Mart, Co.op Mart Huế có đặc điểm chung là thân thiện...</content>
+		<thumb>content/shopping/thumb/coop.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/coop.html</view>
+		<position>16.470822,107.587457</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Thuan Thanh</title>
+    	<content>Siêu thị Thuận Thành là nhà phân phối chính thức của các công ty, tập đoàn lớn cho thị trường TT.Huế và các tỉnh lân cận...</content>
+		<thumb>content/shopping/thumb/thuanthanh.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/thuanthanh.html</view>
+		<position>16.473971,107.581138</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Big C</title>
+    	<content>Big C Huế được đầu tư trên 300 tỷ đồng và là đại siêu thị lớn và hiện đại vào bật nhất khu vực miền Trung hiện nay...</content>
+		<thumb>content/shopping/thumb/bigc.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/bigc.html</view>
+		<position>16.459741,107.599506</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Dong Ba Market</title>
+    	<content>Chợ Đông Ba là trung tâm thương mại lớn nhất của tỉnh Thừa Thiên – Huế và khu vực...</content>
+		<thumb>content/shopping/thumb/chodongba.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/chodongba.html</view>
+		<position>16.47251,107.588529</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Hips Shop</title>
+    	<content>Phong cách năng động, dễ thương đáng yêu đang là trào lưu thời trang được nhiều teen Huế ngày nay ưa chuộng...</content>
+		<thumb>content/shopping/thumb/hips.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/hips.html</view>
+		<position>16.455101,107.597044</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>An Cuu Market</title>
+    	<content>Chợ An Cựu nằm ở bờ sông An Cựu, chỗ tiếp giáp giữa đường Phan Đình Phùng và đường Hùng Vương. Trước đây...</content>
+		<thumb>content/shopping/thumb/ancuu.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/ancuu.html</view>
+		<position>16.457529,107.600563</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Thien Huong</title>
+    	<content>Đây là một trong những đặc sản nổi tiếng của xứ Huế được đông đảo người tiêu dùng trong cả nước yêu chuộng...</content>
+		<thumb>content/shopping/thumb/thienhuong.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/thienhuong.html</view>
+		<position>16.475144,107.58919</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Hoa Xinh Shop</title>
+    	<content>Nhận đặt làm hoa Voan, hoa tươi trang trí, lưu niệm, quà tặng...</content>
+		<thumb>content/shopping/thumb/hoaxinh.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/hoaxinh.html</view>
+		<position>16.474773,107.595242</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>Han Thuyen Book Store</title>
+    	<content>Nhà sách Hàn Thuyên , là nơi uy tín , được mọi phụ huynh và học sinh đến chọn và mua được bộ sách...</content>
+		<thumb>content/shopping/thumb/hanthuyen.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/hanthuyen.html</view>
+		<position>16.473384,107.581331</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Phu Xuan Book Store</title>
+    	<content>Nhà sách Phú Xuân thuộc Công ty Văn hóa Phương Nam được thành lập ngày 07/11/2003, có quy mô lớn nhất tại Huế...</content>
+		<thumb>content/shopping/thumb/phuxuan.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/shopping/phuxuan.html</view>
+		<position>16.47072,107.586621</position>
+		<type>2</type>
+	</item>
+</shopping>

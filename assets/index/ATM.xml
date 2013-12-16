@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atm>
+    <item>
+   		<id>0</id>    
+    	<title>Vietcombank</title>
+    	<content>Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank)</content>
+		<thumb>content/atm/thumb/vietcombank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/vietcombank.html</view>
+		<position>16.460616,107.597259</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Viettinbank</title>
+    	<content>Ngân Hàng TMCP Công Thương Việt Nam</content>
+		<thumb>content/atm/thumb/vietinbank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/vietinbank.html</view>
+		<position>16.464042,107.595407</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Agribank</title>
+    	<content>Ngân hàng nông nghiệp và phát triển nông thôn Việt Nam</content>
+		<thumb>content/atm/thumb/agribank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/agribank.html</view>
+		<position>16.464053,107.590374</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Sacombank</title>
+    	<content>Ngân hàng TMCP Sài Gòn Thương Tín</content>
+		<thumb>content/atm/thumb/sacombank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/sacombank.html</view>
+		<position>16.458486,107.592972</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>HSBC Bank</title>
+    	<content>HSBC Holdings plc, the parent company of the HSBC Group</content>
+		<thumb>content/atm/thumb/hsbc.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/hsbc.html</view>
+		<position>16.458599,107.591519</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Dong A Bank</title>
+    	<content>Ngân hàng Đông Á Việt Nam</content>
+		<thumb>content/atm/thumb/dongabank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/dongabank.html</view>
+		<position>16.459371,107.591502</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>ACB Bank</title>
+    	<content>Ngân hàng Á Châu luôn hướng tới sự hoàn hảo để phục vụ khách hàng.</content>
+		<thumb>content/atm/thumb/acb.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/acb.html</view>
+		<position>16.467448,107.583783</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Western Bank</title>
+    	<content>Ngân hàng miền tây Việt Nam</content>
+		<thumb>content/atm/thumb/westernbank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/westernbank.html</view>
+		<position>16.460986,107.597296</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>BIDV Bank</title>
+    	<content>Ngân hàng đầu tư và phát triển Việt Nam</content>
+		<thumb>content/atm/thumb/bidv.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/bidv.html</view>
+		<position>16.463867,107.595086</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Sai Gon Bank</title>
+    	<content>Ngân hàng Sài Gòn công thương</content>
+		<thumb>content/atm/thumb/saigonbank.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/atm/saigonbank.html</view>
+		<position>16.464091,107.594609</position>
+		<type>2</type>
+	</item>
+</atm>

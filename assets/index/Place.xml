@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place>
+    <item>
+   		<id>0</id>    
+    	<title>Thien Mu Pagoda</title>
+    	<content>Built in 1601 on the order of the first Nguyen lords, Nguyen Hoang, who at that time was the governor of Thuan Hoa...</content>
+		<thumb>content/place/thumb/chua_thien_mu_hue.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/ThienMuPagoda.html</view>
+		<position>16.45242,107.54506</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>1</id>    
+    	<title>Hue Royal</title>
+    	<content>Hue Imperial City in Hue ancient citadel , where the capital of the Nguyen dynasty during the 140 years from 1805 to 1945...</content>
+		<thumb>content/place/thumb/hoang_thanh_hue.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/place/HueRoyal.html</view>
+		<position>16.47049,107.57792</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>2</id>    
+    	<title>Minh Mang Tomb</title>
+    	<content>Tomb of Minh Mang tomb also called Hieu (by King Thieu Tri construction), located on Mount Cam Khe, near Bang Lang fork is a place...</content>
+		<thumb>content/place/thumb/lang_minh_mang.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/MinhMangTomb.html</view>
+		<position>16.387694,107.569036</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>3</id>    
+    	<title>Tu Duc Tomb</title>
+    	<content>Tu Duc tomb is a complex of structures, including the burial place of King Tu Duc is located in a narrow valley of...</content>
+		<thumb>content/place/thumb/lang_tu_duc.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/TuDucTomb.html</view>
+		<position>16.432463,107.565802</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>4</id>    
+    	<title>Thuan An Beach</title>
+    	<content>Thuan An Beach is a beach in Thua Thien-Hue, Vietnam. Hue Beach 15 km to the east. This is a famous tourist place of this province...</content>
+		<thumb>content/place/thumb/bien_thuan_an.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/place/ThuanAnBeach.html</view>
+		<position>16.560189,107.654758</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>5</id>    
+    	<title>Lang Co Bay</title>
+    	<content>Lang Co Beach is a scenic nature of Thua Thien - Hue Province , together with the Hai Van - Non Nuoc phrase is included in the ...</content>
+		<thumb>content/place/thumb/vinh_lang_co.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/place/LangCoBay.html</view>
+		<position>16.26832,108.107258</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>6</id>    
+    	<title>Con Te Mountain</title>
+    	<content>Con Te mangrove land is located opposite Thuan An estuary, located in Huong Phong Commune, Huong Tra district....</content>
+		<thumb>content/place/thumb/con_te.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/ConTeMountain.html</view>
+		<position>16.567675,107.591937</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>7</id>    
+    	<title>Nam Giao</title>
+    	<content>Dan Nam Giao Nguyen Dynasty is where the Nguyen emperors heaven worship ceremony held in the spring every year...</content>
+		<thumb>content/place/thumb/dan_nam_giao.jpg</thumb>
+		<favorite>0</favorite>
+		<view>file:///android_asset/content/place/NamGiao.html</view>
+		<position>16.437814,107.582403</position>
+		<type>0</type>
+	</item>
+	<item>
+   		<id>8</id>    
+    	<title>White Horse</title>
+    	<content>Bạch Mã National Park is situated in the Annamite Mountains and is one of the wettest places in Vietnam. Its mountains are composed...</content>
+		<thumb>content/place/thumb/bach_ma.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/WhiteHorse.html</view>
+		<position>16.183684,107.903488</position>
+		<type>1</type>
+	</item>
+	<item>
+   		<id>9</id>    
+    	<title>Nine Tunnel</title>
+    	<content>Zone Five Nine West Ham of Hamlet, An Old Village, An Thuy commune, Hue city, the city center is about 6km south west,...</content>
+		<thumb>content/place/thumb/chin_ham.jpg</thumb>
+		<favorite>1</favorite>
+		<view>file:///android_asset/content/place/NineTunnel.html</view>
+		<position>16.417891,107.608324</position>
+		<type>2</type>
+	</item>
+</place>
